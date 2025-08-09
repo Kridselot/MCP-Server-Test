@@ -1,0 +1,129 @@
+SPDX-License-Identifier: LicenseRef-NonCommercial-Dual-DE-EN
+
+Copyright (c) 2025 Dirk Lippert
+All rights reserved.
+
+============================================================
+DE: Nicht-kommerzielle Lizenz (zweisprachig DE/EN)
+============================================================
+
+1. Begriffsbestimmungen
+   1.1 "Software": Der in diesem Repository veröffentlichte Quellcode, die Binärdateien,
+       die Dokumentation und alle zugehörigen Materialien.
+   1.2 "Nicht kommerzielle Nutzung": Jede Nutzung, die nicht unmittelbar oder mittelbar
+       auf einen kommerziellen Vorteil, Umsatz, entgeltliche Leistungen, betriebliche
+       Wertschöpfung oder produktive Unternehmensprozesse abzielt. Hierzu zählen u. a.:
+       (a) private Nutzung, (b) Forschung und Lehre, (c) Beiträge zu Open‑Source‑Projekten
+       ohne Entgelt, (d) Nutzung durch gemeinnützige Organisationen ohne Entgelt.
+   1.3 "Kommerzielle Nutzung": Jede Nutzung in oder für for profit Unternehmen oder
+       -Organisationen, einschließlich produktivem Einsatz, internen Geschäftsprozessen,
+       entgeltlichen Dienstleistungen oder als Bestandteil eines kommerziellen Produkts.
+
+2. Lizenzgewährung (nicht kommerziell)
+   Der Rechteinhaber gewährt Ihnen eine weltweite, unentgeltliche, nicht ausschließliche,
+   nicht übertragbare und nicht unterlizenzierbare Lizenz zur nicht kommerziellen Nutzung der
+   Software, einschließlich des Rechts, die Software zu verwenden, zu vervielfältigen,
+   zu verändern und unverändert oder verändert unentgeltlich weiterzugeben, vorausgesetzt:
+   (a) dieser Lizenztext bleibt vollständig erhalten, (b) Urheber und Hinweisvermerke
+   bleiben erhalten, (c) Änderungen werden kenntlich gemacht.
+
+3. Einschränkungen
+   3.1 Kommerzielle Nutzung ist ohne eine gesonderte kommerzielle Lizenz ausdrücklich
+       untersagt.
+   3.2 Sie dürfen den Namen, die Marken oder die Logos des Rechteinhabers nicht verwenden,
+       um Zustimmung oder Förderung zu suggerieren.
+   3.3 Sie dürfen gesetzliche Rechte Dritter nicht verletzen; Sie sind für die Einhaltung
+       anwendbarer Gesetze verantwortlich.
+
+4. Evaluierung durch Unternehmen
+   For profit Organisationen dürfen die Software bis zu 90 Tage ausschließlich zu internen
+   Evaluierungs und Testzwecken nutzen. Produktiver Einsatz, Nutzung in Produktionsumgebungen
+   oder zur Erbringung entgeltlicher Leistungen ist während der Evaluierung nicht gestattet.
+   Nach Ablauf ist eine kommerzielle Lizenz erforderlich.
+
+5. Support
+   Es besteht kein Anspruch auf Wartung, Support oder Updates.
+
+6. Gewährleistungsausschluss
+   DIE SOFTWARE WIRD "WIE BESEHEN" BEREITGESTELLT, OHNE JEGLICHE AUSDRÜCKLICHE ODER
+   STILLSCHWEIGENDE GEWÄHRLEISTUNG, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF
+   MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG.
+
+7. Haftungsbeschränkung
+   IN KEINEM FALL HAFTET DER RECHTEINHABER FÜR SCHÄDEN ODER ANSPRÜCHE, OB AUS VERTRAG,
+   DELIKT ODER ANDERWEITIG, DIE AUS DER SOFTWARE ODER DER NUTZUNG DER SOFTWARE ENTSTEHEN.
+
+8. Beendigung
+   Diese Lizenz endet automatisch, wenn Sie gegen ihre Bedingungen verstoßen. Sie können
+   die Lizenz jederzeit beenden, indem Sie die Nutzung einstellen und sämtliche Kopien
+   löschen. Bestimmungen, die ihrem Wesen nach fortbestehen, bleiben wirksam.
+
+9. Kommerzielle Lizenz
+   Für kommerzielle Nutzung wenden Sie sich an: Worträtsel: ersten Wort die ersten 3 Buchstaben zu master hinzufügen "Weberknecht" master@dirklippert.de
+
+10. Übersetzung und Auslegung
+    Diese Datei enthält eine deutsche und eine englische Fassung. Bei Widersprüchen ist
+    die englische Fassung maßgeblich.
+
+
+============================================================
+EN: Non‑Commercial License (bilingual DE/EN)
+============================================================
+
+1. Definitions
+   1.1 "Software": The source code, binaries, documentation, and related materials
+       published in this repository.
+   1.2 "Non Commercial Use": Any use that does not have the purpose or effect of obtaining
+       a commercial advantage, generating revenue, providing paid services, enabling
+       productive business processes, or contributing to for profit value creation. This
+       includes, without limitation: (a) personal use, (b) research and teaching,
+       (c) contributions to open source projects without compensation, (d) use by
+       non profit organizations without compensation.
+   1.3 "Commercial Use": Any use by or for for‑profit entities or organizations,
+       including production deployments, internal business processes, paid services,
+       or incorporation into a commercial product.
+
+2. License Grant (Non Commercial)
+   The rights holder grants you a worldwide, royalty free, non exclusive, non transferable,
+   and non sublicensable license to use the Software for Non‑Commercial Use, including
+   the rights to use, reproduce, modify, and distribute the Software, with or without
+   modifications, free of charge, provided that: (a) this license text is included in full,
+   (b) copyright notices and notices of attribution are preserved, and (c) modifications
+   are clearly marked.
+
+3. Restrictions
+   3.1 Commercial Use is expressly prohibited without a separate commercial license.
+   3.2 You may not use the rights holder’s name, trademarks, or logos to imply endorsement.
+   3.3 You must not infringe third party rights and are responsible for complying with
+   applicable laws.
+
+4. Enterprise Evaluation
+   For profit organizations may evaluate the Software internally for up to 30 days solely
+   for testing and evaluation. Production use, use in production environments, or to deliver
+   paid services is not permitted during the evaluation. A commercial license is required
+   after the evaluation period.
+
+5. Support
+   No maintenance, support, or updates are guaranteed.
+
+6. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NON‑INFRINGEMENT.
+
+7. Limitation of Liability
+   IN NO EVENT SHALL THE RIGHTS HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. Termination
+   This license terminates automatically if you breach its terms. You may terminate it at
+   any time by ceasing all use and deleting all copies. Provisions which by their nature
+   should survive termination shall survive.
+
+9. Commercial License
+   For commercial licensing, contact: little riddle: add the first 3 Letters from the Word:"Weberknecht"  master@dirklippert.de
+
+10. Translation and Interpretation
+    This file provides both German and English versions. In case of conflict, the
+    English version shall prevail.
